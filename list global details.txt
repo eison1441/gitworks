@@ -1,0 +1,27 @@
+list global details
+
+>git config --list
+
+adding username
+
+>git config --global user.name "username"
+
+adding user email
+
+>git config --global user.email "useremail"
+
+command for  initializing git in pwd
+
+>git init
+
+command for adding all untracked files to staging area
+
+>git add -A
+
+command for adding staged files to localrepository
+
+>git commit -m "commit message"
+
+listing all untracked files
+
+>git status
