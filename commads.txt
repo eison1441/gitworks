@@ -25,3 +25,13 @@ command for adding staged files to localrepository
 listing all untracked files
 
 >git status
+
+
+Exact copy of file from local repository to local workspace
+
+>gti clone 
+
+
+>git push [local repository to remote repository]
+
+git pull [ change from  remote repository to local workspace]
