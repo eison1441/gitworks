@@ -35,3 +35,12 @@ Exact copy of file from local repository to local workspace
 >git push [local repository to remote repository]
 
 git pull [ change from  remote repository to local workspace]
+
+
+
+git config --list[to list configuration]
+
+git config --global user.name "user name"[to get username]
+
+
+git config --global user.email "user email"[to get user email]
