@@ -44,3 +44,6 @@ git config --global user.name "user name"[to get username]
 
 
 git config --global user.email "user email"[to get user email]
+
+
+git remote add remote name remote path
